@@ -1,2 +1,2 @@
 # vsc
-nauka visual sttudio code
+nauka visual sttudio code TTT
